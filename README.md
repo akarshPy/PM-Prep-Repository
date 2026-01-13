@@ -1,5 +1,5 @@
 why PM?
-  Product Management aligns perfectly with my back group and interests. I have engineering foundation that helps me understand technical feasibility,
+  Product Management aligns perfectly with my background and interests. I have engineering foundation that helps me understand technical feasibility,
   a professional experience as an associate in Digital marketing agencies with client and consumer first mentality that has trained me to think in 
   think in terms of users, data, and business impact, and a creative inclination from my early interest in art and design that drives me to build 
   intuitive, user-centric solutions.
