@@ -6,6 +6,22 @@
 
 2. What surprised you?
 
+    Ironically, the thing a PM does the most is say “no.” Some people 
+believe that product managers just dictate what features to build. Given 
+everyone has lots of ideas for features, why bother with a PM? It’s true 
+that everyone has lots of ideas, some of them good, but most ideas people 
+have are for things they want, not necessarily things customers want. 
+For example, think of an engineer who spends her days using cryptic 
+command-line tools—I’m sure you know someone like this! This engineer 
+probably prefers keyboard shortcuts, dislikes GUIs, and favors using code 
+to explicitly specify meaning. Now, imagine that engineer is part of a team 
+working on an iPad word processor for senior citizens. Do you think the 
+features the engineer would prioritize match what the customers need? A 
+large part of a PM’s job is to figure out the small number of key features 
+to prioritize for the customer, and to lay the groundwork for long-term 
+business viability by gracefully saying “no” to the numerous requests that 
+don’t fit the customer’s needs
+
 3. How PM differs from your current role
 
     In short, Digital Marketing drives users to the product, while Product Management defines and builds the product that users stay for.
