@@ -22,7 +22,7 @@ to prioritize for the customer, and to lay the groundwork for long-term
 business viability by gracefully saying “no” to the numerous requests that 
 don’t fit the customer’s needs
 
-3. How PM differs from your current role
+3. How PM differs from your current role?
 
     In short, Digital Marketing drives users to the product, while Product Management defines and builds the product that users stay for.
     In detail, I have catorise them in 3 main areas,
